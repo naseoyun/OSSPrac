@@ -1,6 +1,3 @@
-# OSSPrac
-## Name: seoyun Na
-## e-mail: 2022110458@dgu.ac.kr
-  - ossproject with github
-  - Date: 2025.09.25
-  - subject: Git&github
+# 2025-2-OSSPrac-sosprac-05
+2025-2 오픈소스소프트웨어실습 05-sosprac 입니다.
+팀소개 웹페이지
