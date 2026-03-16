@@ -1,0 +1,12 @@
+
+services:
+  app:
+    build: .
+    image: naseoyun/app:latest
+    ports:
+      - "8000:80"
+
+
+      
+
+
